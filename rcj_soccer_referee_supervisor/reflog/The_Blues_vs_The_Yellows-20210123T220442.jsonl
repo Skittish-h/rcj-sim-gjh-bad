@@ -1,0 +1,4 @@
+{"datetime": "2021-01-23T22:04:42.144826Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-01-23T22:04:42.178641Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600}}
+{"datetime": "2021-01-23T22:04:55.993363Z", "matchtime": 13.631999999992445, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2021-01-23T22:04:59.063305Z", "matchtime": 16.639999999990778, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}

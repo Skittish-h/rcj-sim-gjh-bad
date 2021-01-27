@@ -1,0 +1,45 @@
+{"datetime": "2021-01-25T17:37:46.728832Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-01-25T17:37:46.771376Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600}}
+{"datetime": "2021-01-25T17:38:01.998058Z", "matchtime": 15.103999999991629, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-01-25T17:38:01.998490Z", "matchtime": 15.103999999991629, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-01-25T17:38:01.998715Z", "matchtime": 15.103999999991629, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-01-25T17:38:17.324589Z", "matchtime": 30.207999999983258, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-01-25T17:38:17.325512Z", "matchtime": 30.207999999983258, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-01-25T17:38:17.326289Z", "matchtime": 30.207999999983258, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-01-25T17:38:26.061241Z", "matchtime": 38.783999999978505, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-01-25T17:38:29.120201Z", "matchtime": 41.79199999997684, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-01-25T17:38:44.429299Z", "matchtime": 56.89599999996847, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-01-25T17:38:44.429692Z", "matchtime": 56.89599999996847, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-01-25T17:38:44.429990Z", "matchtime": 56.89599999996847, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-01-25T17:38:59.821651Z", "matchtime": 71.9999999999601, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-01-25T17:38:59.821904Z", "matchtime": 71.9999999999601, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-01-25T17:38:59.822044Z", "matchtime": 71.9999999999601, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-01-25T17:39:15.192334Z", "matchtime": 87.10399999995172, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-01-25T17:39:15.192894Z", "matchtime": 87.10399999995172, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-01-25T17:39:19.776757Z", "matchtime": 91.58399999995243, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2021-01-25T17:39:22.823830Z", "matchtime": 94.59199999995343, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-01-25T17:39:38.160887Z", "matchtime": 109.69599999995847, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-01-25T17:39:45.502959Z", "matchtime": 116.92799999996089, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-01-25T17:39:47.372968Z", "matchtime": 118.78399999996151, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 1, "score_blue": 2}}
+{"datetime": "2021-01-25T17:39:50.445532Z", "matchtime": 121.79199999996251, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-01-25T17:40:05.761517Z", "matchtime": 136.89599999996756, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-01-25T17:40:05.761995Z", "matchtime": 136.89599999996756, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-01-25T17:40:21.122257Z", "matchtime": 151.9999999999726, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-01-25T17:40:21.122557Z", "matchtime": 151.9999999999726, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-01-25T17:40:36.501782Z", "matchtime": 167.10399999997765, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-01-25T17:40:36.502784Z", "matchtime": 167.10399999997765, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-01-25T17:40:51.795430Z", "matchtime": 182.2079999999827, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-01-25T17:41:07.132360Z", "matchtime": 197.31199999998773, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-01-25T17:41:34.125937Z", "matchtime": 223.8719999999966, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 1, "score_blue": 3}}
+{"datetime": "2021-01-25T17:41:37.166454Z", "matchtime": 226.8799999999976, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-01-25T17:41:54.499780Z", "matchtime": 243.9040000000033, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 1, "score_blue": 4}}
+{"datetime": "2021-01-25T17:41:57.558740Z", "matchtime": 246.9120000000043, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-01-25T17:42:05.211143Z", "matchtime": 254.46400000000682, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 2, "score_blue": 4}}
+{"datetime": "2021-01-25T17:42:08.269745Z", "matchtime": 257.4720000000078, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-01-25T17:42:38.261186Z", "matchtime": 286.9760000000177, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-01-25T17:42:38.568884Z", "matchtime": 287.2960000000178, "event": "GOAL", "payload": {"team_name": "The Blues", "score_yellow": 2, "score_blue": 5}}
+{"datetime": "2021-01-25T17:42:41.654305Z", "matchtime": 290.3040000000188, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-01-25T17:42:57.035780Z", "matchtime": 305.40800000002383, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-01-25T17:42:57.036378Z", "matchtime": 305.40800000002383, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-01-25T17:42:58.018244Z", "matchtime": 306.36800000002415, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-01-25T17:43:12.389018Z", "matchtime": 320.5120000000289, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}

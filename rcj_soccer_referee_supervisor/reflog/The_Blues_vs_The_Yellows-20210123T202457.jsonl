@@ -1,0 +1,7 @@
+{"datetime": "2021-01-23T20:24:57.101793Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-01-23T20:24:57.138463Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600}}
+{"datetime": "2021-01-23T20:26:19.034531Z", "matchtime": 78.52799999995648, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2021-01-23T20:26:22.150100Z", "matchtime": 81.53599999995481, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-01-23T20:26:40.534706Z", "matchtime": 99.45599999995505, "event": "GOAL", "payload": {"team_name": "The Yellows", "score_yellow": 2, "score_blue": 0}}
+{"datetime": "2021-01-23T20:26:43.580779Z", "matchtime": 102.46399999995606, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-01-23T20:27:02.993100Z", "matchtime": 121.40799999996239, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}

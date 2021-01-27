@@ -1,0 +1,57 @@
+# rcj_soccer_player controller - ROBOT B3
+
+###### REQUIRED in order to import files from B1 controller
+import sys
+from pathlib import Path
+sys.path.append(str(Path('.').absolute().parent))
+# You can now import scripts that you put into the folder with your
+# robot B1 controller
+from rcj_soccer_player_b1 import rcj_soccer_robot, utils
+from intercepts import interceptCalculator
+######
+
+# Feel free to import built-in libraries
+import math
+
+#robot class
+class MyRobot(rcj_soccer_robot.RCJSoccerRobot):
+    def run(self):
+        #create interceptcalc instance
+        intercept_c = interceptCalculator(3)
+
+        while self.robot.step(rcj_soccer_robot.TIME_STEP) != -1:
+            if self.is_new_data():
+                data = self.get_new_data()
+
+                # Get the position of our robot
+                robot_pos = data[self.name]
+                # Get the position of the ball
+                ball_pos = data['ball']
+
+                #push ball pos into intercept calculator
+                intercept_c.pushPoint(ball_pos)
+                print(intercept_c.estimateFunction("x"))
+
+                # Get angle between the robot and the ball
+                # and between the robot and the north
+                ball_angle, robot_angle = self.get_angles(ball_pos, robot_pos)
+
+                # Compute the speed for motors
+                direction = utils.get_direction(ball_angle)
+
+                # If the robot has the ball right in front of it, go forward,
+                # rotate otherwise
+                if direction == 0:
+                    left_speed = -5
+                    right_speed = -5
+                else:
+                    left_speed = direction * 4
+                    right_speed = direction * -4
+
+                # Set the speed to motors
+                self.left_motor.setVelocity(10)
+                self.right_motor.setVelocity(-10)
+
+
+my_robot = MyRobot()
+my_robot.run()
